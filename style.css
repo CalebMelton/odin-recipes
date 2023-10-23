@@ -1,0 +1,41 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: honeydew;
+    margin: 0px;
+}
+
+.page-title{
+    border-bottom: black solid 2px;
+    margin: 0px;
+    background-color: mediumseagreen
+}
+
+#homepage-contents{
+    text-align: center;
+}
+
+img{
+    border: black groove 7px;
+    display: block;
+    margin: 20px auto;
+}
+
+#homepage-recipe-container{
+    padding-left: 0px;
+}
+
+#homepage-recipe-container ul{
+    padding-left: 0px;
+    width: 400px;
+    margin: 0px auto;
+    list-style: none;
+}
+
+#homepage-recipe-container li{
+    margin-bottom: 5px;
+    padding: 5px 0px;
+    border: black solid 2px;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: plum;
+}
